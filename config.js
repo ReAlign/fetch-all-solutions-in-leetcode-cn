@@ -1,0 +1,9 @@
+module.exports = function () {
+  return {
+    data: {
+      username: 'ReAlign',
+      password: 'alj#PK19941004lc',
+    },
+    cookie: 'gr_user_id=fb5316bc-324b-441f-bc9a-10cc5718aafb; a2873925c34ecbd2_gr_session_id=67744f6d-2255-442d-ba22-a7e84267136b; a2873925c34ecbd2_gr_session_id_67744f6d-2255-442d-ba22-a7e84267136b=true; aliyungf_tc=a8ca2e31afa17d18b5740bb799c4425be74be667c56e72f0bc298cbdd976fbb1; csrftoken=GhLn2H8rPEtR6J19pBs9GA5ARuOO5bVcLd6VWnMGmeUqTHVhWXb9e2uEsvc7vHra; _bl_uid=j4lOv38U1FjimL1k6lysdp5e40I6; a2873925c34ecbd2_gr_last_sent_sid_with_cs1=67744f6d-2255-442d-ba22-a7e84267136b; a2873925c34ecbd2_gr_last_sent_cs1=realign; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNDcyMzkwIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI2MGU0MzM0MmUzZjRhODZjYzVjNzMxYjBlZTZlN2NmOGFmOGFiOGE0MDZlZGNlNjgwMjU3OGJiNmM4YjZiNDdkIiwiaWQiOjQ3MjM5MCwiZW1haWwiOiJyZWFsaWduQHllYWgubmV0IiwidXNlcm5hbWUiOiJyZWFsaWduIiwidXNlcl9zbHVnIjoicmVhbGlnbiIsImF2YXRhciI6Imh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNuL2FsaXl1bi1sYy11cGxvYWQvdXNlcnMvcmVhbGlnbi9hdmF0YXJfMTU1NDI1ODYyMS5wbmciLCJwaG9uZV92ZXJpZmllZCI6ZmFsc2UsIl90aW1lc3RhbXAiOjE2NTIyNjg1NjUuODg5NTYsImV4cGlyZWRfdGltZV8iOjE2NTQ4MDEyMDAsInZlcnNpb25fa2V5XyI6MH0.5IA--mfL-H6w2Al43HrbQcOt23NmwFyoJpeT7tye4yk; a2873925c34ecbd2_gr_cs1=realign',
+  };
+};

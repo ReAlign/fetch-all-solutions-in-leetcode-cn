@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>list</title>
+</head>
+
+<body>
+  <ol>
+  <% list.forEach(function(item) { %>
+    <li>
+      <a href="/get-submissions-by?id=<%= item.titleSlug %>" target="_blank">
+        [<%= item.difficulty[0] %>] <%= item.translatedTitle %> #<%= item.frontendId %>
+      </a>
+    </li>
+    <% }); %>
+  </ol>
+</body>
+
+</html>

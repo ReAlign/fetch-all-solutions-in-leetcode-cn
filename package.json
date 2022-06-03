@@ -1,0 +1,29 @@
+{
+  "name": "fetch-all-solutions-in-leetcode-cn",
+  "version": "0.0.1",
+  "description": "Fetch all solutions in leetcode-cn.",
+  "main": "index.js",
+  "scripts": {
+    "server": "node mini-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/fetch-all-solutions-in-leetcode-cn.git"
+  },
+  "author": "ReAlign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReAlign/fetch-all-solutions-in-leetcode-cn/issues"
+  },
+  "homepage": "https://github.com/ReAlign/fetch-all-solutions-in-leetcode-cn#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "express-minify-html": "^0.12.0",
+    "fs-extra": "^10.1.0",
+    "lodash": "^4.17.21",
+    "ora": "^5.2.0",
+    "superagent": "^7.1.3"
+  }
+}
